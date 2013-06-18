@@ -1,0 +1,11 @@
+{
+	"name"				: "pomelo-client",
+	"description"		: "socket.oi pomelo-client for nodejs",
+	"author"			: "guolianghu",
+	"main"				: "index.js",
+	"version"			: "0.0.2",
+	"dependencies"	: {
+		"socket.io-client": ">=0.0.1"
+	},
+	"license"	       : "MIT"
+}
